@@ -1,5 +1,5 @@
 
-# Projeto de Cadastro de Carros
+# CRUD no Java
 
 Este é um projeto simples de cadastro de carros desenvolvido utilizando Java com Spring Boot JPA e HTML. O objetivo é permitir o registro, a listagem, a atualização e a exclusão de carros (CRUD padrão).
 
