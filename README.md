@@ -7,7 +7,6 @@ Este é um projeto simples de cadastro de carros desenvolvido utilizando Java co
 
 - **Java 17**
 - **Spring Boot**
-- **Spring Data JPA**
 - **HTML**
 - **Eclipse IDE**
 
